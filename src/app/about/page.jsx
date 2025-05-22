@@ -5,7 +5,7 @@ function About() {
         About
       </h1>
       <p className="text-center">
-        Hey there! I&apos;m Backs, the creative force steering this little
+        Hey there! the creative force steering this little
         corner of the internet I call my blog. A self-professed enthusiast of
         both gaming and coding, I find joy in navigating the realms of pixels
         and algorithms. When I&apos;m not immersed in lines of code, you&apos;ll
